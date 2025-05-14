@@ -1,6 +1,3 @@
-#!/usr/bin/env node
-/* eslint-env node */
-
 const { Wallet } = require('ethers');
 const fs = require('fs');
 
